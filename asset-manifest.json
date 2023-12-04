@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shoeShop.github.io/static/css/main.263d5dff.css",
+    "main.js": "/shoeShop.github.io/static/js/main.a1041e99.js",
+    "static/js/768.e76375e6.chunk.js": "/shoeShop.github.io/static/js/768.e76375e6.chunk.js",
+    "static/js/149.a05cd525.chunk.js": "/shoeShop.github.io/static/js/149.a05cd525.chunk.js",
+    "static/js/787.23170c61.chunk.js": "/shoeShop.github.io/static/js/787.23170c61.chunk.js",
+    "static/js/834.9aef3756.chunk.js": "/shoeShop.github.io/static/js/834.9aef3756.chunk.js",
+    "static/media/bg.png": "/shoeShop.github.io/static/media/bg.616f307c169b743ff920.png",
+    "static/media/logo.svg": "/shoeShop.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shoeShop.github.io/index.html",
+    "main.263d5dff.css.map": "/shoeShop.github.io/static/css/main.263d5dff.css.map",
+    "main.a1041e99.js.map": "/shoeShop.github.io/static/js/main.a1041e99.js.map",
+    "768.e76375e6.chunk.js.map": "/shoeShop.github.io/static/js/768.e76375e6.chunk.js.map",
+    "149.a05cd525.chunk.js.map": "/shoeShop.github.io/static/js/149.a05cd525.chunk.js.map",
+    "787.23170c61.chunk.js.map": "/shoeShop.github.io/static/js/787.23170c61.chunk.js.map",
+    "834.9aef3756.chunk.js.map": "/shoeShop.github.io/static/js/834.9aef3756.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.263d5dff.css",
+    "static/js/main.a1041e99.js"
+  ]
+}
